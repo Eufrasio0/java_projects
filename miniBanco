@@ -1,0 +1,116 @@
+package util;
+
+public class Conta {
+
+    private static int ID = 0;
+
+    private String name;
+    private double saldo;
+    private int number;
+
+    public String getName(){
+        return name;
+    }
+
+    public void setName(String name){
+        this.name = name;
+    }
+
+    public double getSaldo(){
+        return saldo;
+    }
+
+    public int getNumber(){
+        return number;
+    }
+
+    public Conta(){
+        this.number = ID++;
+    }
+
+    public Conta(String name, double saldo){
+        this.name = name;
+        this.saldo = saldo;
+        this.number = ID++;
+    }
+
+    public boolean saque(double saque){
+        if(saldo - saque < -5){
+            return false;
+        }
+        saldo -= (saque + 5);
+        return true;
+    }
+
+    public boolean deposito(double deposito){
+        if(deposito <= 0){
+            return false;
+        }
+        saldo += deposito;
+        return true;
+    }
+}
+
+
+/* -------------------------------------------------------------- main ---------------------------------------------------- */
+
+package Aula;
+import java.util.Locale;
+import java.util.Scanner;
+
+import util.Conta;
+
+public class Aula1 {
+    public static void main( String[] args){
+        Locale.setDefault(Locale.US);
+        Scanner Var = new Scanner(System.in);
+        System.out.println("Digite o nome do titular da conta");
+        String nome = Var.nextLine();
+        System.out.println("O deposito inicial para abrir a conta");
+        double dep = Var.nextDouble();
+        Conta conta = new Conta(nome, dep);
+        int esc = 0;
+        while(esc != -1){
+            System.out.println("_______DADOS______");
+            System.out.printf("Nome: %s %nSaldo: %.2f %nID: - %d %n", conta.getName(), conta.getSaldo(), conta.getNumber());
+            System.out.println("Digite -1 para encerrar");
+            System.out.println("Digite 1 para sacar");
+            System.out.println("Digite 2 para depositar");
+            System.out.println("Digite 3 para mudar o nome do titular da conta");
+            esc = Var.nextInt();
+            switch (esc) {
+                case 1:
+                    {
+                        System.out.println("Digite o valor que deseja sacar:");
+                        double saque = Var.nextDouble();
+                        conta.saque(saque);
+                    }
+                    break;
+                case 2:
+                    {
+                        System.out.println("Digite o valor que deseja depositar:");
+                        double depo = Var.nextDouble();
+                        conta.deposito(depo);
+                        break;
+                    }
+                case 3:
+                    {
+                        System.out.println("Digite o novo nome:");
+                        Var.nextLine();
+                        String nom = Var.nextLine();
+                        conta.setName(nom);
+                        break;
+
+                    }
+                case -1:
+                    break;
+            
+                default:
+                    break;
+            }
+        }
+
+        Var.close();
+    }
+    
+}
