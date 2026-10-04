@@ -1,0 +1,526 @@
+﻿data,hora,tipo,"origem / destino",valor,"forma de pagamento"
+2026-10-03,17:49,"Pix recebido","GABRIEL DE OLIVEIRA ROCHA","+R$ 2,50",
+2026-10-03,17:23,"Pix recebido","Moisés da Silva Costa","+R$ 18,00",
+2026-10-03,15:52,"Pix recebido","Eneli Terezinha da Silva Gomes","+R$ 19,00",
+2026-10-03,15:21,"Pix enviado","IFOOD.COM AGENCIA DE RESTAURANTES ONLINE S.A.","−R$ 1,89","Com saldo"
+2026-10-03,13:52,"Pix recebido","FRANSINETE JOVENTINO DE ARAUJO","+R$ 6,00",
+2026-10-03,13:11,"Pix recebido","THIAGO CRUZ DE ARAUJO","+R$ 42,00",
+2026-10-03,12:24,"Pix recebido","FRANSINETE JOVENTINO DE ARAUJO","+R$ 11,50",
+2026-10-03,10:24,"Pix enviado","MARIA BETANIA DA SILVA SANTOS","−R$ 100,00","Com saldo"
+2026-10-03,10:08,"Pix enviado","João Victor Correia Alves","−R$ 149,50","Com saldo"
+2026-10-03,10:01,"Pix recebido","JOSE FERNANDES FLORENCIO NETO","+R$ 23,50",
+2026-10-03,08:07,"Pix recebido","Yasmim Camilly Rodrigues Vieira","+R$ 3,00",
+2026-10-02,21:32,"Pix enviado","PIX Marketplace","−R$ 122,90","Com saldo"
+2026-10-02,19:50,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 7,92","Com saldo"
+2026-10-02,19:42,"Pix enviado","IAP! COSMETICOS","−R$ 5,99","Com saldo"
+2026-10-02,18:25,"Pix recebido","FRANCINALDO NASCIMENTO DE MARIA","+R$ 2,50",
+2026-10-02,17:59,"Pix enviado","REDE BOM COMERCIO LTDA","−R$ 21,06","Com saldo"
+2026-10-02,17:47,"Pix enviado","EXIBIDORA NACIONAL DE FILMES LTDA","−R$ 19,00","Com saldo"
+2026-10-02,16:19,"Pix enviado","MAREE INSTITUICAO DE PAGAMENTO LTDA","−R$ 13,16","Com saldo"
+2026-10-02,12:17,"Pix enviado","Lívia Pereira dos Santos","−R$ 7,00","Com saldo"
+2026-10-02,09:34,"Pix recebido","Edvania da Silva Ribeiro","+R$ 11,35",
+2026-10-02,08:27,"Pix recebido","Lucas Gabriel Pereira da Silva","+R$ 3,00",
+2026-10-01,18:20,"Pix recebido","Patricia Silva de Sousa","+R$ 6,50",
+2026-10-01,13:34,"Pix recebido","Welvyton Kernner de Araújo","+R$ 11,00",
+2026-10-01,12:59,"Pix recebido","FERNANDA NASCIMENTO DA SILVA","+R$ 2,50",
+2026-10-01,12:53,"Pix enviado","SYNC PAY","−R$ 29,90","Com saldo"
+2026-10-01,08:01,"Pix enviado","WMS SUPERMERCADOS DO BRASIL LTDA.","−R$ 17,79","Com saldo"
+2026-10-01,07:38,"Pix enviado","SILVIO ROMERO HOSTIO PINTO","−R$ 217,80","Com saldo"
+2026-10-01,07:08,"Pix recebido","Camila Barros de Sousa","+R$ 2,25",
+2026-09-30,20:26,"Pix recebido","Gabriela Nascimento de Mello","+R$ 57,00",
+2026-09-30,18:34,"Pix recebido","FLAVIO FIRMINO GRACILIANO","+R$ 110,00",
+2026-09-30,18:13,"Pix recebido","JOAO VICTOR NOBERTO COELHO","+R$ 3,00",
+2026-09-30,17:35,"Pix recebido","CECILIA DA SILVA PINTO","+R$ 2,00",
+2026-09-30,13:17,"Pix enviado","SEVERINO FREIRES CAMELO","−R$ 11,78","Com saldo"
+2026-09-30,13:13,"Pix recebido","FERNANDA NASCIMENTO DA SILVA","+R$ 4,25",
+2026-09-30,13:08,"Pix recebido","Maria Nikolly Silveira Ferreira","+R$ 2,50",
+2026-09-30,12:07,"Pix recebido","JANAILTON FELIX DOS SANTOS","+R$ 8,50",
+2026-09-30,11:54,"Pix recebido","EDMILSON GONCALVES CRISPIM","+R$ 19,45",
+2026-09-30,11:40,"Pix recebido","GERIMARIO B SILVA ME","+R$ 40,00",
+2026-09-30,11:36,"Pix recebido","LANNA CARLA VERAS LIMA","+R$ 168,00",
+2026-09-30,11:34,"Pix recebido","Kezia Keren da Silva Sousa","+R$ 3,50",
+2026-09-30,10:28,"Pix recebido","Gabriela Souza Aires","+R$ 2,00",
+2026-09-30,10:26,"Pix recebido","Ana Lívia Sousa Marques","+R$ 2,00",
+2026-09-30,10:22,"Pix recebido","Mary Glaucia dos Santos","+R$ 150,00",
+2026-09-30,10:09,"Pix recebido","Natanael da Silva Sousa","+R$ 1,50",
+2026-09-30,10:04,"Pix recebido","Anna Flavia Moreira Bronzeado","+R$ 10,50",
+2026-09-30,10:04,"Pix recebido","Felipe Ferreira da Gama","+R$ 10,75",
+2026-09-30,10:00,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 5,00","Com saldo"
+2026-09-30,07:31,"Pix recebido","Ana Clara de Araujo Moreira","+R$ 7,50",
+2026-09-30,07:29,"Pix recebido","Danielly Soares Barbosa","+R$ 5,75",
+2026-09-30,07:28,"Pix recebido","ANNA BEATRIZ SANTOS GOMES","+R$ 2,00",
+2026-09-30,07:28,"Pix recebido","Lohany de Souza Nunes Silva","+R$ 0,50",
+2026-09-30,07:17,"Pix recebido","Emmilly Iracema de Lima Silva Fernandes","+R$ 1,25",
+2026-09-29,15:12,"Pix recebido","ANTONIO PEDRO DE OLIVEIRA SILVA","+R$ 2,00",
+2026-09-29,15:04,"Pix recebido","RODRIGO GABRIEL FERREIRA BEZERRA","+R$ 2,50",
+2026-09-29,15:02,"Pix recebido","Mônyck Emanuelly Souto Barbosa","+R$ 2,00",
+2026-09-29,14:52,"Pix enviado",ENERGISA,"−R$ 214,61","Com saldo"
+2026-09-29,13:53,"Pix recebido","Ana Clara de Araujo Moreira","+R$ 0,50",
+2026-09-29,13:53,"Pix recebido","Debóra Drielle Sousa Honorato Bezerra","+R$ 0,50",
+2026-09-29,13:49,"Pix recebido","Heitor Galdino Ventura","+R$ 5,00",
+2026-09-29,13:40,"Pix recebido","RODRIGO GABRIEL FERREIRA BEZERRA","+R$ 1,50",
+2026-09-29,13:20,"Pix recebido","GUSTAVO FORMIGA DE ALMEIDA AGUIAR","+R$ 2,50",
+2026-09-29,13:14,"Compra realizada","Mercadinho 2 Irmaos Campina Grand Bra","−R$ 7,98","Com saldo"
+2026-09-29,13:07,"Pix recebido","Henrique Gabriel Pereira dos Santos","+R$ 1,50",
+2026-09-29,13:01,"Pix recebido","FERNANDA NASCIMENTO DA SILVA","+R$ 2,50",
+2026-09-29,12:56,"Pix recebido","GIRLEIDE MARGARETH PEREIRA DOS SANTOS","+R$ 4,00",
+2026-09-29,12:43,"Pix recebido","Ana Clara de Araujo Moreira","+R$ 4,50",
+2026-09-29,12:41,"Pix recebido","Pedro Arthur Nunes Souza","+R$ 1,50",
+2026-09-29,12:35,"Pix recebido","Brenda Virginio Maciel","+R$ 2,00",
+2026-09-29,12:15,"Pix recebido","MARIA EDUARDA CARARD MUNERON","+R$ 9,00",
+2026-09-29,09:28,"Pix recebido","Debóra Drielle Sousa Honorato Bezerra","+R$ 2,00",
+2026-09-29,09:23,"Pix recebido","Brenda Virginio Maciel","+R$ 3,00",
+2026-09-29,09:20,"Pix recebido","Anna Flavia Moreira Bronzeado","+R$ 7,50",
+2026-09-29,09:18,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 4,00",
+2026-09-29,09:16,"Pix recebido","MARIANA DA SILVA PEREIRA","+R$ 1,00",
+2026-09-29,09:14,"Pix recebido","SOPHIA VITORIA XAVIER DE SOUZA","+R$ 6,00",
+2026-09-29,09:14,"Pix recebido","Gabriela Souza Aires","+R$ 1,00",
+2026-09-29,09:11,"Pix recebido","Vinicius Samuel Nascimento Sales","+R$ 6,00",
+2026-09-29,09:09,"Pix recebido","ANNA BEATRIZ SANTOS GOMES","+R$ 2,50",
+2026-09-29,09:08,"Pix recebido","Isabella Hadassa Elias Barbosa Silva","+R$ 8,00",
+2026-09-29,09:08,"Pix recebido","ANTONIO PEDRO DE OLIVEIRA SILVA","+R$ 0,50",
+2026-09-29,09:07,"Pix recebido","Maria Clara Freire Ferreira","+R$ 4,75",
+2026-09-29,09:07,"Pix recebido","Rafaela Almeida França","+R$ 3,00",
+2026-09-29,09:01,"Pix recebido","BETANIA ROCHA DA SILVA","+R$ 5,00",
+2026-09-29,08:57,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 7,00","Com saldo"
+2026-09-29,07:48,"Pix recebido","Samantha Bruna Santos","+R$ 3,00",
+2026-09-29,07:34,"Pix recebido","Kezia Keren da Silva Sousa","+R$ 2,70",
+2026-09-29,07:19,"Pix recebido","Renata Priscila Santos Oliveira","+R$ 5,00",
+2026-09-28,18:22,"Pix recebido","ALEXSANDRO PEREIRA DA SILVA","+R$ 5,00",
+2026-09-28,17:55,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,90","Com saldo"
+2026-09-28,17:33,"Pix recebido","Maria Sandra Silva Justino","+R$ 7,00",
+2026-09-28,17:32,"Pix recebido","Maria Sandra Silva Justino","+R$ 23,00",
+2026-09-28,17:18,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 5,00","Com saldo"
+2026-09-28,15:27,"Pix recebido","RODRIGO GABRIEL FERREIRA BEZERRA","+R$ 2,00",
+2026-09-28,15:02,"Pix recebido","Mayana Santos Guimarães","+R$ 9,75",
+2026-09-28,15:02,"Pix recebido","Luan Henrique Paulino Vidal","+R$ 6,20",
+2026-09-28,14:25,"Pix recebido","Vinicius Samuel Nascimento Sales","+R$ 3,20",
+2026-09-28,14:24,"Pix recebido","Rafaela Almeida França","+R$ 1,50",
+2026-09-28,13:13,"Pix recebido","ITAMAR MATEUS MUNIZ DE MELO","+R$ 9,00",
+2026-09-28,13:10,"Pix recebido","Henrique Gabriel Pereira dos Santos","+R$ 2,00",
+2026-09-28,13:08,"Pix recebido","Brenda Virginio Maciel","+R$ 2,00",
+2026-09-28,12:58,"Pix recebido","RICHARLYSON MELO DO NASCIMENTO","+R$ 1,50",
+2026-09-28,12:38,"Pix recebido","GIRLEIDE MARGARETH PEREIRA DOS SANTOS","+R$ 4,00",
+2026-09-28,12:36,"Pix recebido","Beatriz Vitor Gomes","+R$ 3,50",
+2026-09-28,12:36,"Pix recebido","MARIA EDUARDA DE LIMA SILVA","+R$ 2,00",
+2026-09-28,12:22,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 1,00",
+2026-09-28,12:20,"Pix recebido","Debóra Drielle Sousa Honorato Bezerra","+R$ 1,50",
+2026-09-28,12:20,"Pix recebido","Ana Clara de Araujo Moreira","+R$ 3,50",
+2026-09-28,12:18,"Pix recebido","Danielly Soares Barbosa","+R$ 1,50",
+2026-09-28,11:58,"Pix recebido","Brenda Virginio Maciel","+R$ 3,00",
+2026-09-28,11:54,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 7,50","Com saldo"
+2026-09-28,10:10,"Pix recebido","WILMA SILVA GUIMARAES","+R$ 2,50",
+2026-09-28,09:31,"Pix recebido","Diogo Henrique Gomes de Andrade","+R$ 3,00",
+2026-09-28,09:27,"Pix recebido","Brenda Virginio Maciel","+R$ 3,20",
+2026-09-28,09:23,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 2,50",
+2026-09-28,09:23,"Pix recebido","JULIA RAFAELLY BERTULINO AMORIM","+R$ 12,75",
+2026-09-28,09:16,"Pix recebido","Pedro Arthur Nunes Souza","+R$ 4,75",
+2026-09-28,09:10,"Pix recebido","Ana Lívia Sousa Marques","+R$ 6,00",
+2026-09-28,09:09,"Pix recebido","Joelli Hyane Ribeiro Martins","+R$ 6,00",
+2026-09-28,09:04,"Pix recebido","CECILIA DA SILVA PINTO","+R$ 5,50",
+2026-09-28,08:35,"Compra realizada","Fulano de Sal Paes e M Campina Grand Bra","−R$ 2,00","Com saldo"
+2026-09-28,08:14,"Pix recebido","Vanessa Queiroz da Costa Sales","+R$ 5,00",
+2026-09-28,07:35,"Pix recebido","KALLINE ARAUJO COSTA","+R$ 1,50",
+2026-09-28,07:25,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 2,75",
+2026-09-28,07:25,"Pix recebido","Maria Júlia Araujo Cavalcanti","+R$ 1,50",
+2026-09-28,07:25,"Pix recebido","Ysthefanny Maria da Silva Soares","+R$ 1,00",
+2026-09-27,12:34,"Pix recebido","PEDRO VICTOR DE OLIVEIRA DIAS","+R$ 3,50",
+2026-09-27,12:20,"Pix recebido","RENAN DI PACE ARRUDA","+R$ 6,50",
+2026-09-27,07:53,"Pix devolvido","Debóra Drielle Sousa Honorato Bezerra","−R$ 5,00","Com saldo"
+2026-09-26,21:51,"Pix recebido","Debóra Drielle Sousa Honorato Bezerra","+R$ 5,00",
+2026-09-26,18:08,"Pix recebido","BIANCA DA SILVA PEREIRA","+R$ 4,50",
+2026-09-26,17:45,"Pix enviado","PADIOLA NERD PRESENTES LTDA","−R$ 10,00","Com saldo"
+2026-09-26,17:10,"Pix enviado","Paulo Henrique Moreira Franco Gomes","−R$ 20,00","Com saldo"
+2026-09-26,15:30,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 8,91","Com saldo"
+2026-09-26,12:50,"Pix enviado","ANDERSON DE ALMEIDA SILVA","−R$ 20,00","Com saldo"
+2026-09-26,09:30,"Pix recebido","MARINA M ARAUJO","+R$ 2,00",
+2026-09-26,08:55,"Pix recebido","Ana Beatriz da Silva Moura","+R$ 3,00",
+2026-09-25,18:28,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,90","Com saldo"
+2026-09-25,17:25,"Pix recebido","FERNANDA NASCIMENTO DA SILVA","+R$ 7,25",
+2026-09-25,16:12,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 10,72","Com saldo"
+2026-09-25,15:34,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 11,90","Com saldo"
+2026-09-25,14:45,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 11,31","Com saldo"
+2026-09-25,13:47,"Pix recebido","Sthefanny Guimarães Ramalho","+R$ 4,50",
+2026-09-25,13:03,"Pix recebido","Willyana Vilela Guimarães","+R$ 1,50",
+2026-09-25,12:26,"Pix enviado","DLOCAL BRASIL INSTITUICAO DE PAGAMENTO S A","−R$ 16,79","Com saldo"
+2026-09-25,12:08,"Pix recebido","MARIA BIANCA SILVA DE LIMA","+R$ 11,75",
+2026-09-25,11:42,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,90","Com saldo"
+2026-09-25,11:41,"Pix recebido","ALEXANDRE BATISTA CAVALCANTE","+R$ 12,00",
+2026-09-25,11:07,"Pix recebido","Anna Eloisa Garcia de Souza","+R$ 8,60",
+2026-09-25,10:53,"Pix recebido","Maria Clara Freire Ferreira","+R$ 10,75",
+2026-09-25,10:11,"Pix recebido","ANNA JULLIA SILVA BARRETO","+R$ 4,00",
+2026-09-25,09:44,"Pix recebido","Maria de Fátima Silva","+R$ 74,75",
+2026-09-25,09:26,"Pix recebido","Anna Eloisa Garcia de Souza","+R$ 2,50",
+2026-09-25,09:12,"Pix recebido","Anna Eloisa Garcia de Souza","+R$ 1,00",
+2026-09-25,09:11,"Pix recebido","Rafaella Araújo de Mello","+R$ 2,00",
+2026-09-25,09:09,"Pix recebido","Isabella Hadassa Elias Barbosa Silva","+R$ 6,00",
+2026-09-25,09:09,"Pix recebido","Maria Eduarda Macêdo da Silva","+R$ 3,00",
+2026-09-25,09:08,"Pix recebido","Ysthefanny Maria da Silva Soares","+R$ 3,00",
+2026-09-25,09:08,"Pix recebido","Ana Clara de Araujo Moreira","+R$ 6,00",
+2026-09-25,09:07,"Pix recebido","Danielly Soares Barbosa","+R$ 3,00",
+2026-09-25,08:52,"Pix recebido","Ramon Pontes da Costa","+R$ 9,00",
+2026-09-25,08:09,"Pix recebido","ROSICLEIDE BARBOSA DE LIMA","+R$ 2,50",
+2026-09-25,08:09,"Pix recebido","ROSICLEIDE BARBOSA DE LIMA","+R$ 4,00",
+2026-09-24,18:48,"Pix recebido","Estela Cris dos Santos Dias","+R$ 1,00",
+2026-09-24,18:40,"Compra realizada",GOOGLE,"−R$ 7,99","Com saldo"
+2026-09-24,17:39,"Pix recebido","Alana dos Santos","+R$ 9,70",
+2026-09-24,17:16,"Pix recebido","ANA BERNARDO AQUINO","+R$ 2,00",
+2026-09-24,17:03,"Pix enviado","Verônica Pereira da Silva Barbosa","−R$ 120,00","Com saldo"
+2026-09-24,17:03,"Dinheiro resgatado","Do cofrinho Mochilão","+R$ 66,00",
+2026-09-24,16:41,"Pix recebido","Márcia Solange de Melo Silva","+R$ 3,00",
+2026-09-24,16:31,"Pix recebido","MARIA DE FATIMA NUNES DOS SANTOS MEDEIROS","+R$ 11,00",
+2026-09-24,16:04,"Pix enviado","ADALBERTO FRANKLIN GUEDES","−R$ 20,00","Com saldo"
+2026-09-24,15:28,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 3,91","Com saldo"
+2026-09-24,15:00,"Pix recebido","Valdirene Brito Sousa","+R$ 1,50",
+2026-09-24,12:41,"Pix recebido","Evando Gurgel dos Santos","+R$ 6,50",
+2026-09-24,12:19,"Pix recebido","ROSICLEIDE BARBOSA DE LIMA","+R$ 2,00",
+2026-09-24,12:12,"Compra realizada","Fulano de Sal Paes e M Campina Grand Bra","−R$ 8,50","Com saldo"
+2026-09-24,10:09,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 5,00","Com saldo"
+2026-09-24,07:37,"Pix recebido","Emmilly Iracema de Lima Silva Fernandes","+R$ 6,00",
+2026-09-24,07:34,"Pix recebido","Hugo Soares Do Nascimento","+R$ 2,00",
+2026-09-23,18:23,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 5,60","Com saldo"
+2026-09-23,17:15,"Pix recebido","HUDSON CAVALCANTE DOS SANTOS","+R$ 10,00",
+2026-09-23,13:47,"Pix recebido","Rafaela Almeida França","+R$ 1,50",
+2026-09-23,13:01,"Pix recebido","Maria Bianca Silva de Lima","+R$ 1,50",
+2026-09-23,12:36,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,91","Com saldo"
+2026-09-23,12:19,"Pix recebido","Maria Luiza Brito Sousa","+R$ 0,50",
+2026-09-23,12:08,"Pix enviado","MAYARA MARIA DA SILVA OLIVEIRA 10874300460","−R$ 13,00","Com saldo"
+2026-09-23,11:04,"Pix recebido","Ana Beatriz da Silva Moura","+R$ 3,00",
+2026-09-23,06:41,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 7,96","Com saldo"
+2026-09-22,17:52,"Pix enviado","CAMPOS JUNIOR ENTRETENIMENTO","−R$ 7,00","Com saldo"
+2026-09-22,17:12,"Pix recebido","MARINA M ARAUJO","+R$ 19,50",
+2026-09-22,15:47,"Pix recebido","Maria Clara Freire Ferreira","+R$ 3,00",
+2026-09-22,15:33,"Dinheiro guardado","No cofrinho Mochilão","−R$ 700,00","Com saldo"
+2026-09-22,15:32,"Pix recebido","EUFRASIO ARRUDA NETO","+R$ 700,00",
+2026-09-22,15:30,"Pix enviado","EUFRASIO ARRUDA NETO","−R$ 300,00","Com saldo"
+2026-09-22,14:32,"Pix recebido","EUFRASIO ARRUDA NETO","+R$ 300,00",
+2026-09-22,12:54,"Pix enviado","SEVERINO FREIRES CAMELO","−R$ 2,99","Com saldo"
+2026-09-22,12:11,"Pix recebido","Maria Luiza Brito Sousa","+R$ 8,50",
+2026-09-22,11:55,"Pix recebido","JOSE QUINTINO PEREIRA","+R$ 8,00",
+2026-09-22,10:38,"Pix recebido","ANA BERNARDO AQUINO","+R$ 4,00",
+2026-09-22,09:22,"Pix enviado","SITRANS DE CAMPINA GRANDE","−R$ 30,00","Com saldo"
+2026-09-22,08:26,"Pix recebido","Willyana Vilela Guimarães","+R$ 7,10",
+2026-09-22,08:16,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 2,00","Com saldo"
+2026-09-22,08:05,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 5,00","Com saldo"
+2026-09-22,07:54,"Pix recebido","DANYELLE KEYSE MARIA SILVA","+R$ 5,00",
+2026-09-22,07:49,"Pix recebido","ROSICLEIDE BARBOSA DE LIMA","+R$ 2,40",
+2026-09-22,07:42,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 7,94","Com saldo"
+2026-09-21,17:14,"Pix recebido","SANDRELLY SOFIA GOMES SILVA","+R$ 3,00",
+2026-09-21,16:16,"Pix recebido","Nohany Machado de Araújo","+R$ 4,00",
+2026-09-21,16:16,"Pix recebido","ELOISA PEIXOTO SILVA","+R$ 4,00",
+2026-09-21,16:12,"Pix recebido","MARIA DE FATIMA NUNES DOS SANTOS MEDEIROS","+R$ 8,00",
+2026-09-21,15:51,"Pix recebido","Rafaella Araújo de Mello","+R$ 1,00",
+2026-09-21,15:31,"Pix recebido","Maria Luiza Brito Sousa","+R$ 3,50",
+2026-09-21,15:10,"Pix enviado","LUCIANO DE SOUSA","−R$ 100,00","Com saldo"
+2026-09-21,14:41,"Pix recebido","Gustavo Alves Da Silva","+R$ 1,50",
+2026-09-21,14:40,"Pix recebido","KATHERINE L VASCONCELOS","+R$ 1,50",
+2026-09-21,14:40,"Pix recebido","Nayhara Hellen Limeira Duarte","+R$ 2,50",
+2026-09-21,14:00,"Pix recebido","Rogério Leite Cavalcante Junior","+R$ 9,00",
+2026-09-21,13:50,"Pix recebido","DAVID KAIQUE FERREIRA DA SILVA","+R$ 4,00",
+2026-09-21,11:59,"Pix recebido","Nohany Machado de Araújo","+R$ 2,00",
+2026-09-21,11:52,"Pix recebido","VICTOR EMANUEL CALIXTO SILVA","+R$ 5,50",
+2026-09-21,11:38,"Pix recebido","MARCOS ANTONIO NOBREGA GOMES FILHO","+R$ 6,50",
+2026-09-21,11:26,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 5,00","Com saldo"
+2026-09-21,11:22,"Pix recebido","Alex Fabiano Souza Silva","+R$ 2,50",
+2026-09-21,10:28,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 2,00","Com saldo"
+2026-09-21,10:06,"Pix recebido","Rafaella Araújo de Mello","+R$ 2,00",
+2026-09-21,09:19,"Pix recebido","RICHARLYSON MELO DO NASCIMENTO","+R$ 3,00",
+2026-09-21,09:19,"Pix recebido","Felipe Ferreira da Gama","+R$ 6,50",
+2026-09-21,09:18,"Pix recebido","Vinicius Samuel Nascimento Sales","+R$ 3,00",
+2026-09-21,09:17,"Pix recebido","ANNA JULLIA SILVA BARRETO","+R$ 7,25",
+2026-09-21,09:17,"Pix recebido","Lohany de Souza Nunes Silva","+R$ 5,50",
+2026-09-21,09:15,"Pix recebido","MARIA SAMARA TOMAZ GUIMARAES","+R$ 3,00",
+2026-09-21,09:15,"Pix recebido","Joel Angelo de Araújo Batista","+R$ 12,00",
+2026-09-21,09:13,"Pix recebido","Ysthefanny Maria da Silva Soares","+R$ 3,00",
+2026-09-21,09:12,"Pix recebido","Joelli Hyane Ribeiro Martins","+R$ 3,00",
+2026-09-21,09:11,"Pix recebido","Brenda Virginio Maciel","+R$ 3,00",
+2026-09-21,09:11,"Pix recebido","Rafaella Araújo de Mello","+R$ 3,00",
+2026-09-21,09:08,"Pix recebido","Heloisa da Silva Lima Valerio","+R$ 2,00",
+2026-09-21,07:14,"Pix recebido","WILMA SILVA GUIMARAES","+R$ 11,00",
+2026-09-20,06:22,"Pagamento realizado","Recarga de celular","−R$ 25,00","Com saldo"
+2026-09-19,21:15,"Pix recebido","66.196.752 S MATIAS","+R$ 6,00",
+2026-09-19,18:47,"Pix enviado","ANDREY ELOY MACHADO MOREIRA","−R$ 8,00","Com saldo"
+2026-09-19,18:16,"Pix recebido","Marcos Josebias Sousa Santos","+R$ 2,75",
+2026-09-19,18:14,"Pix recebido","Pietro Raniery Silva Neves","+R$ 5,50",
+2026-09-19,16:36,"Pix enviado","Eneli Terezinha da Silva Gomes","−R$ 200,00","Com saldo"
+2026-09-19,15:37,"Pix recebido","KEVEN DA SILVA","+R$ 2,70",
+2026-09-19,15:24,"Pix recebido","DIEGO ARAGAO PEREIRA","+R$ 10,00",
+2026-09-19,12:52,"Pix recebido","ELIVANIA BATISTA S CRUZ","+R$ 12,40",
+2026-09-19,10:12,"Pix recebido","Jhonny Palmeira de Lima","+R$ 4,50",
+2026-09-19,08:11,"Pix recebido","MARINA M ARAUJO","+R$ 11,00",
+2026-09-18,18:17,"Pix recebido","ERICK LOHAN GOMES FERREIRA","+R$ 8,30",
+2026-09-18,18:06,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,91","Com saldo"
+2026-09-18,15:28,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 4,00","Com saldo"
+2026-09-18,15:19,"Pix recebido","Maria do Socorro Cardoso da Silva","+R$ 4,50",
+2026-09-18,15:15,"Pix recebido","RUTH BARBOSA DE OLIVEIRA","+R$ 1,00",
+2026-09-18,15:09,"Pix recebido","RUTH BARBOSA DE OLIVEIRA","+R$ 4,00",
+2026-09-18,12:44,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 8,50","Com saldo"
+2026-09-18,11:45,"Pix recebido","Luccas Maximo Fernandes dos Santos","+R$ 1,50",
+2026-09-18,11:31,"Pix recebido","Ana Clara de Araujo Moreira","+R$ 1,50",
+2026-09-18,11:12,"Pix recebido","ANA BEATRIZ MOURA PINTO SILVA","+R$ 4,50",
+2026-09-18,11:01,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 6,56","Com saldo"
+2026-09-18,10:36,"Pix recebido","Ana Beatriz Azevedo Do Nascimento","+R$ 2,00",
+2026-09-18,09:30,"Pix recebido","MARIA DE FATIMA NUNES DOS SANTOS MEDEIROS","+R$ 39,00",
+2026-09-18,09:21,"Pix recebido","Vinicius Samuel Nascimento Sales","+R$ 6,00",
+2026-09-18,09:21,"Pix recebido","Josefa niedja Karla Araujo Costa","+R$ 3,00",
+2026-09-18,09:20,"Pix recebido","Ana Lívia Sousa Marques","+R$ 3,00",
+2026-09-18,09:19,"Pix recebido","Brenda Virginio Maciel","+R$ 3,00",
+2026-09-18,09:18,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 3,00",
+2026-09-18,09:17,"Pix recebido","Rafaella Araújo de Mello","+R$ 3,00",
+2026-09-18,08:48,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 9,95","Com saldo"
+2026-09-18,07:53,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 5,00","Com saldo"
+2026-09-18,07:35,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 12,94","Com saldo"
+2026-09-18,07:27,"Pix recebido","Kallyane Barbosa Ferreira","+R$ 2,00",
+2026-09-17,18:13,"Pix recebido","ANA BERNARDO AQUINO","+R$ 4,70",
+2026-09-17,17:46,"Pix recebido","KACIA ROSANA LOURENCO DE ALMEIDA","+R$ 9,00",
+2026-09-17,17:37,"Pix recebido","JACINTA FATIMA PEREIRA SILVA","+R$ 4,50",
+2026-09-17,14:12,"Pix recebido","ANA CLEIDE PESSOA DA SILVA","+R$ 1,00",
+2026-09-17,13:55,"Pix recebido","Andrea Joana dos Santos","+R$ 5,50",
+2026-09-17,11:19,"Pix recebido","ANA BEATRIZ MOURA PINTO SILVA","+R$ 1,00",
+2026-09-17,10:59,"Pix recebido","Ana Beatriz Azevedo Do Nascimento","+R$ 7,75",
+2026-09-17,10:58,"Pix recebido","Maria Gyselle da Silva Menezes","+R$ 0,10",
+2026-09-17,09:39,"Pix recebido","COSMA PEDRO DA SILVA","+R$ 32,65",
+2026-09-17,09:34,"Pix recebido","ROQUE ROBSON DE ARAUJO MOREIRA","+R$ 6,00",
+2026-09-17,09:34,"Pix recebido","JOAO VICTOR NASCIMENTO VIEIRA","+R$ 6,00",
+2026-09-17,09:25,"Pix recebido","Brenda Virginio Maciel","+R$ 4,00",
+2026-09-17,09:21,"Pix recebido","Danielly Soares Barbosa","+R$ 1,00",
+2026-09-17,09:17,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 2,50",
+2026-09-17,09:13,"Pix recebido","Vanessa Sofia Alves da Silva","+R$ 3,00",
+2026-09-16,18:33,"Pix enviado","Romildo Brandão Santos","−R$ 100,00","Com saldo"
+2026-09-16,18:01,"Pix recebido","Ana Beatriz da Silva Moura","+R$ 8,50",
+2026-09-16,18:01,"Pix recebido","MARIA JOSE OLIVEIRA MELLO","+R$ 32,80",
+2026-09-16,15:41,"Pix recebido","EDILANE MARIA SILVA COSTA","+R$ 7,80",
+2026-09-16,12:40,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,92","Com saldo"
+2026-09-16,11:48,"Pix recebido","José Ruan Vinicius da Silva","+R$ 2,00",
+2026-09-16,11:46,"Pix recebido","JADILENE PEREIRA VELEZ","+R$ 18,50",
+2026-09-16,11:29,"Pix recebido","MATHEUS BRITO SILVA","+R$ 2,00",
+2026-09-16,11:18,"Pix recebido","ANTONIO PEDRO DE OLIVEIRA SILVA","+R$ 4,00",
+2026-09-16,11:14,"Pix recebido","Jadson Gabriel de Souza Marques","+R$ 2,00",
+2026-09-16,11:10,"Pix recebido","Anna Eloisa Garcia de Souza","+R$ 6,25",
+2026-09-16,11:07,"Pix recebido","Laicoln Gomes de Andrade Santos","+R$ 1,50",
+2026-09-16,09:26,"Pix recebido","Laura Sophia de Lima Silva","+R$ 2,50",
+2026-09-16,09:25,"Pix recebido","Debóra Drielle Sousa Honorato Bezerra","+R$ 2,00",
+2026-09-16,09:17,"Pix recebido","Layanne Castor Chaves","+R$ 5,00",
+2026-09-16,09:15,"Pix recebido","Ana Cristina Franco de Souza","+R$ 3,50",
+2026-09-16,09:15,"Pix recebido","ANNA JULLIA SILVA BARRETO","+R$ 3,50",
+2026-09-16,09:14,"Pix recebido","Lohany de Souza Nunes Silva","+R$ 1,75",
+2026-09-16,09:12,"Pix recebido","Ana Beatriz Azevedo Do Nascimento","+R$ 9,25",
+2026-09-16,09:10,"Pix recebido","Vanessa Sofia Alves da Silva","+R$ 4,75",
+2026-09-16,09:10,"Pix recebido","Lohany de Souza Nunes Silva","+R$ 5,50",
+2026-09-16,09:08,"Pix recebido","Nohany Machado de Araújo","+R$ 6,00",
+2026-09-16,09:06,"Pix recebido","Brenda Virginio Maciel","+R$ 6,00",
+2026-09-16,09:02,"Pix recebido","Ana Lívia Sousa Marques","+R$ 6,00",
+2026-09-16,08:59,"Pix recebido","Joelli Hyane Ribeiro Martins","+R$ 6,00",
+2026-09-16,08:58,"Pix recebido","IREMAR JOSE DA SILVA","+R$ 12,70",
+2026-09-16,07:28,"Pix recebido","Debóra Drielle Sousa Honorato Bezerra","+R$ 1,00",
+2026-09-16,07:05,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 3,00","Com saldo"
+2026-09-16,06:42,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 13,93","Com saldo"
+2026-09-15,17:35,"Pix enviado","IFOOD.COM AGENCIA DE RESTAURANTES ONLINE S.A.","−R$ 8,89","Com saldo"
+2026-09-15,14:33,"Pix recebido","EDWESLEY DE QUEIROZ PEREIRA","+R$ 2,60",
+2026-09-15,14:24,"Pix recebido","50 556 460 PABLO WESLEY CARVALHO FIGUEIREDO","+R$ 1,50",
+2026-09-15,13:50,"Pix recebido","THIAGO R S SANTOS","+R$ 5,25",
+2026-09-15,11:34,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 5,00","Com saldo"
+2026-09-15,11:11,"Pix recebido","Kezia Keren da Silva Sousa","+R$ 0,80",
+2026-09-15,11:07,"Pix recebido","Alex Fabiano Souza Silva","+R$ 2,00",
+2026-09-15,09:33,"Pix recebido","Pedro Arthur Nunes Souza","+R$ 6,75",
+2026-09-15,09:28,"Pix recebido","Brenda Virginio Maciel","+R$ 3,00",
+2026-09-15,09:21,"Pix recebido","Laura Sophia de Lima Silva","+R$ 4,50",
+2026-09-15,09:17,"Pix recebido","Vanessa Sofia Alves da Silva","+R$ 3,00",
+2026-09-15,09:14,"Pix recebido","Nohany Machado de Araújo","+R$ 8,60",
+2026-09-15,09:14,"Pix recebido","Lohany de Souza Nunes Silva","+R$ 6,00",
+2026-09-15,08:41,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 2,00","Com saldo"
+2026-09-14,18:30,"Pix recebido","JOSE ISAQUE NUNES VELEZ","+R$ 1,50",
+2026-09-14,17:35,"Pix recebido","HUDSON CAVALCANTE DOS SANTOS","+R$ 5,00",
+2026-09-14,16:42,"Pix recebido","MARIA VITORIA DOS SANTOS MELO","+R$ 0,50",
+2026-09-14,16:40,"Pix recebido","MARIA VITORIA DOS SANTOS MELO","+R$ 6,50",
+2026-09-14,16:34,"Pix recebido","Maria Luiza Brito Sousa","+R$ 16,00",
+2026-09-14,16:32,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 3,00","Com saldo"
+2026-09-14,16:27,"Pix enviado","Edileide Pereira da Silva","−R$ 100,00","Com saldo"
+2026-09-14,13:20,"Pix recebido","Maria Luiza Brito Sousa","+R$ 8,00",
+2026-09-14,12:43,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 2,00","Com saldo"
+2026-09-14,11:55,"Pix recebido","Victor Matheus Gomes Batista","+R$ 1,50",
+2026-09-14,11:42,"Pix recebido","Átila Gabriel Santos Sampaio","+R$ 4,50",
+2026-09-14,11:29,"Pix recebido","VICTOR EMANUEL CALIXTO SILVA","+R$ 2,00",
+2026-09-14,11:27,"Pix recebido","José Ruan Vinicius da Silva","+R$ 2,00",
+2026-09-14,11:27,"Pix recebido","Mayana Santos Guimarães","+R$ 2,50",
+2026-09-14,11:24,"Pix recebido","Anna Eloisa Garcia de Souza","+R$ 1,50",
+2026-09-14,11:14,"Pix recebido","Henrique Gabriel Pereira dos Santos","+R$ 1,50",
+2026-09-14,11:05,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 3,50","Com saldo"
+2026-09-14,11:03,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 5,00","Com saldo"
+2026-09-14,09:46,"Pix recebido","Rafaella Araújo de Mello","+R$ 0,50",
+2026-09-14,09:43,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 5,00","Com saldo"
+2026-09-14,09:23,"Pix recebido","Rafaella Araújo de Mello","+R$ 1,50",
+2026-09-14,09:18,"Pix recebido","Laura Sophia de Lima Silva","+R$ 1,50",
+2026-09-14,08:31,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,90","Com saldo"
+2026-09-14,07:35,"Pix recebido","Ana Karollayne Muniz Dos Santos","+R$ 2,00",
+2026-09-13,14:53,"Pix enviado","TELEFONICA BRAS","−R$ 35,00","Com saldo"
+2026-09-13,14:51,"Pix enviado","PROXXIMA TELECOMUNICACOES","−R$ 78,18","Com saldo"
+2026-09-12,17:25,"Pix recebido","Eneli Terezinha da Silva Gomes","+R$ 6,10",
+2026-09-12,16:53,"Pix enviado","PAY2ALL INSTITUICAO DE PAGAMENTO LTDA.","−R$ 33,47","Com saldo"
+2026-09-12,16:27,"Pix recebido","Eneli Terezinha da Silva Gomes","+R$ 5,00",
+2026-09-12,15:50,"Pix recebido","Mercia de Sousa Silva","+R$ 6,00",
+2026-09-12,14:27,"Pix recebido","Kevyn Keysson Araujo da Silva","+R$ 4,99",
+2026-09-12,12:52,"Pix recebido","FERNANDA NASCIMENTO DA SILVA","+R$ 22,25",
+2026-09-12,09:14,"Pix recebido","Renata Priscila Santos Oliveira","+R$ 14,90",
+2026-09-12,09:12,"Pix recebido","IGOR GABRIEL ALVES DE MORAES","+R$ 3,75",
+2026-09-12,08:50,"Pix recebido","Tatiane da Costa Santos","+R$ 9,00",
+2026-09-12,08:48,"Pix recebido","FRANSINETE JOVENTINO DE ARAUJO","+R$ 14,00",
+2026-09-11,16:13,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,90","Com saldo"
+2026-09-11,15:30,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 4,00","Com saldo"
+2026-09-11,15:18,"Pix recebido","MARIA DE LOURDES FERREIRA LIMA","+R$ 5,50",
+2026-09-11,14:34,"Pix recebido","Maria Luiza Brito Sousa","+R$ 8,30",
+2026-09-11,14:21,"Pix recebido","Maria Eduarda Macêdo da Silva","+R$ 14,50",
+2026-09-11,13:30,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 3,00","Com saldo"
+2026-09-11,13:16,"Pix recebido","Ana Clara de Araujo Moreira","+R$ 1,50",
+2026-09-11,12:46,"Pix recebido","Beatriz Vitor Gomes","+R$ 6,50",
+2026-09-11,12:22,"Pix recebido","Luan Henrique Paulino Vidal","+R$ 6,00",
+2026-09-11,12:20,"Pix recebido","Yasmim Camilly Rodrigues Vieira","+R$ 6,00",
+2026-09-11,12:15,"Pix recebido","Ana Beatriz Azevedo Do Nascimento","+R$ 3,00",
+2026-09-11,12:09,"Pix recebido","Maria Eduarda Macêdo da Silva","+R$ 5,25",
+2026-09-11,12:08,"Pix recebido","ANA RITA SOUZA BARBOSA","+R$ 2,00",
+2026-09-11,11:56,"Pix recebido","Rayane Katelin Oliveira Alves","+R$ 5,00",
+2026-09-11,10:44,"Pix enviado","MAYARA MARIA DA SILVA OLIVEIRA 10874300460","−R$ 13,00","Com saldo"
+2026-09-11,09:59,"Pix recebido","HUDSON CAVALCANTE DOS SANTOS","+R$ 5,00",
+2026-09-11,09:31,"Pix recebido","Vinicius Samuel Nascimento Sales","+R$ 2,00",
+2026-09-11,09:27,"Pix recebido","Maryanne Vitória Cardoso Sousa","+R$ 3,00",
+2026-09-11,09:26,"Pix recebido","IARA ELOISE BARRETO DE LIMA","+R$ 2,25",
+2026-09-11,09:23,"Pix recebido","SUSYENI DA SILVA DOS ANJOS LIMA","+R$ 3,00",
+2026-09-11,09:23,"Pix recebido","Victor Matheus Gomes Batista","+R$ 4,75",
+2026-09-11,09:22,"Pix recebido","Wesley Gonçalves Chaves","+R$ 3,00",
+2026-09-11,09:18,"Pix recebido","Stephany Oliveira de Sena","+R$ 3,00",
+2026-09-11,09:13,"Pix recebido","Ysthefanny Maria da Silva Soares","+R$ 3,00",
+2026-09-11,08:58,"Pix recebido","ALLEFFY MATIAS XAVIER DA COSTA","+R$ 36,00",
+2026-09-11,08:40,"Pix recebido","UBER DO BRASIL TECNOLOGIA LTDA.","+R$ 6,95",
+2026-09-11,08:39,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,91","Com saldo"
+2026-09-11,08:29,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 6,95","Com saldo"
+2026-09-11,06:58,"Pix recebido","Davi Luck Barbosa Tavares","+R$ 3,95",
+2026-09-11,06:55,"Pix recebido","Ana Karollayne Muniz Dos Santos","+R$ 2,50",
+2026-09-11,06:32,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,92","Com saldo"
+2026-09-11,06:19,"Pix recebido","RICHARLYSON LUAN FARIAS ALMEIDA","+R$ 12,50",
+2026-09-10,19:16,"Pix enviado","JOSENIRA DOS SANTOS SILVA","−R$ 10,00","Com saldo"
+2026-09-10,19:15,"Pix enviado","JOSENIRA DOS SANTOS SILVA","−R$ 15,00","Com saldo"
+2026-09-10,17:57,"Pix recebido","Evellyn Rayane da Silva Soares","+R$ 4,50",
+2026-09-10,15:26,"Pix recebido","ANGELLO GABRIEL SOUZA DE OLIVEIRA","+R$ 1,50",
+2026-09-10,14:08,"Pix recebido","Maria Luiza Brito Sousa","+R$ 3,85",
+2026-09-10,11:49,"Pix recebido","Alex Fabiano Souza Silva","+R$ 4,50",
+2026-09-10,11:26,"Pix recebido","Pedro Arthur Nunes Souza","+R$ 4,00",
+2026-09-10,11:20,"Pix enviado","SEVERINO FREIRES CAMELO","−R$ 15,25","Com saldo"
+2026-09-10,11:08,"Pix recebido","LARISSA ARAUJO DOS SANTOS","+R$ 3,10",
+2026-09-10,11:07,"Pix recebido","Joel Angelo de Araújo Batista","+R$ 7,50",
+2026-09-10,11:02,"Pix recebido","Maria Eduarda Macêdo da Silva","+R$ 1,50",
+2026-09-10,10:23,"Pix recebido","ELLEN RENNALLY CAMILO DA SILVA","+R$ 2,25",
+2026-09-10,08:29,"Pix recebido","HUDSON CAVALCANTE DOS SANTOS","+R$ 4,50",
+2026-09-10,07:56,"Pix recebido","Ana Ligia Pereira Do Nascimento","+R$ 13,20",
+2026-09-10,07:56,"Pix recebido","DANYELLE KEYSE MARIA SILVA","+R$ 20,00",
+2026-09-10,07:55,"Pix recebido","Isabel Cristina Siganski da Silva","+R$ 1,50",
+2026-09-10,07:55,"Pix recebido","Isabel Cristina Siganski da Silva","+R$ 1,25",
+2026-09-10,07:21,"Pix recebido","Ana Beatriz Azevedo Do Nascimento","+R$ 1,00",
+2026-09-10,07:21,"Pix recebido","Kezia Keren da Silva Sousa","+R$ 4,50",
+2026-09-09,21:15,"Pix recebido","MARIA MARTA GOMES DA SILVA PEREIRA","+R$ 4,50",
+2026-09-09,18:30,"Pix enviado","Verônica Pereira da Silva Barbosa","−R$ 630,00","Com saldo"
+2026-09-09,18:02,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,28","Com saldo"
+2026-09-09,16:58,"Pix recebido","ANDREZZA MARIA PEREIRA BARBOSA","+R$ 91,64",
+2026-09-09,15:50,"Pix enviado","FULANO DE SAL COMERCIO DE PAES E ALIMENTOS PREPARADOS LTDA","−R$ 7,00","Com saldo"
+2026-09-09,15:11,"Pix recebido","Willyana Vilela Guimarães","+R$ 2,00",
+2026-09-09,14:55,"Pix recebido","Willyana Vilela Guimarães","+R$ 3,90",
+2026-09-09,13:24,"Pix recebido","Terezinha Nair Alves Pereira","+R$ 7,50",
+2026-09-09,12:55,"Pix recebido","Isabella Hadassa Elias Barbosa Silva","+R$ 1,00",
+2026-09-09,12:31,"Pix recebido","Ana Clara de Araujo Moreira","+R$ 3,00",
+2026-09-09,12:30,"Pix recebido","Yasmin Vieira Dias","+R$ 2,00",
+2026-09-09,12:25,"Pix enviado","FULANO DE SAL COMERCIO DE PAES E ALIMENTOS PREPARADOS LTDA","−R$ 7,00","Com saldo"
+2026-09-09,12:15,"Pix recebido","Stephany Oliveira de Sena","+R$ 3,00",
+2026-09-09,12:12,"Pix recebido","Henrique Gabriel Pereira dos Santos","+R$ 1,50",
+2026-09-09,12:10,"Pix recebido","Laura Sophia de Lima Silva","+R$ 4,50",
+2026-09-09,12:04,"Pix recebido","Maria Eduarda Macêdo da Silva","+R$ 1,50",
+2026-09-09,12:03,"Pix recebido","Pedro Arthur Nunes Souza","+R$ 1,75",
+2026-09-09,12:03,"Pix recebido","Isabel VitÓria P Santos","+R$ 2,00",
+2026-09-09,12:00,"Pix recebido","MADSON SILVA REIS","+R$ 5,25",
+2026-09-09,10:19,"Pix enviado","FULANO DE SAL COMERCIO DE PAES E ALIMENTOS PREPARADOS LTDA","−R$ 3,00","Com saldo"
+2026-09-09,09:28,"Pix recebido","ANNA JULLIA SILVA BARRETO","+R$ 5,50",
+2026-09-09,09:25,"Pix recebido","Laura Sophia de Lima Silva","+R$ 2,50",
+2026-09-09,09:20,"Pix recebido","Yasmim Camilly Rodrigues Vieira","+R$ 3,00",
+2026-09-09,09:16,"Pix recebido","Henrique Gabriel Pereira dos Santos","+R$ 3,00",
+2026-09-09,09:11,"Pix recebido","YASMIM VITORIA DOS SANTOS MORAIS","+R$ 6,00",
+2026-09-09,08:24,"Pix enviado","FULANO DE SAL COMERCIO DE PAES E ALIMENTOS PREPARADOS LTDA","−R$ 5,00","Com saldo"
+2026-09-09,08:07,"Pix recebido","WILMA SILVA GUIMARAES","+R$ 4,00",
+2026-09-09,08:06,"Pix recebido","MADSON SILVA REIS","+R$ 2,00",
+2026-09-09,07:19,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 6,33","Com saldo"
+2026-09-09,07:12,"Pix recebido","Heloisa da Silva Lima Valerio","+R$ 0,50",
+2026-09-08,22:08,"Pix recebido","ANTONIA VIEIRA SILVA DE LIMA","+R$ 5,00",
+2026-09-08,17:35,"Pix recebido","MARIA EDUARDA CARARD MUNERON","+R$ 13,50",
+2026-09-08,16:41,"Compra realizada","La Barca Salgados Campina Grand Bra","−R$ 4,00","Com saldo"
+2026-09-08,16:38,"Compra realizada","Embalatudo Campina Grand Bra","−R$ 29,80","Com saldo"
+2026-09-08,15:16,"Pix recebido","Ayane Alves Quinino de Medeiros","+R$ 6,70",
+2026-09-08,15:06,"Pix recebido","Maria Luiza Brito Sousa","+R$ 5,90",
+2026-09-08,14:33,"Pix recebido","ANNA JULLIA SILVA BARRETO","+R$ 3,40",
+2026-09-08,14:30,"Pix recebido","Sthefanny Rebecca Santos Alves","+R$ 4,00",
+2026-09-08,13:51,"Pix recebido","DOUGLAS DE FARIAS PEREIRA","+R$ 9,00",
+2026-09-08,13:32,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 4,85","Com saldo"
+2026-09-08,13:24,"Pix recebido","Laura Sophia de Lima Silva","+R$ 3,50",
+2026-09-08,12:40,"Pix recebido","Maria Eduarda Macêdo da Silva","+R$ 1,50",
+2026-09-08,12:37,"Pix recebido","Ana Clara de Araujo Moreira","+R$ 9,00",
+2026-09-08,12:26,"Pix recebido","Heloisa da Silva Lima Valerio","+R$ 5,00",
+2026-09-08,12:16,"Pix recebido","Ana Lívia Sousa Marques","+R$ 4,25",
+2026-09-08,12:12,"Pix recebido","Yasmin Vieira Dias","+R$ 2,25",
+2026-09-08,12:12,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 2,00",
+2026-09-08,10:24,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 6,43","Com saldo"
+2026-09-08,09:26,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 2,50",
+2026-09-08,09:22,"Pix recebido","Brenda Virginio Maciel","+R$ 2,50",
+2026-09-08,09:18,"Pix recebido","Gabriella Ribeiro do Nascimento","+R$ 6,00",
+2026-09-08,09:14,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 2,50",
+2026-09-08,09:14,"Pix recebido","Debóra Drielle Sousa Honorato Bezerra","+R$ 3,00",
+2026-09-08,09:12,"Pix recebido","Yasmin Vieira Dias","+R$ 2,60",
+2026-09-08,09:11,"Pix recebido","Livia Carvalho de Araujo","+R$ 1,50",
+2026-09-08,07:16,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 1,50",
+2026-09-07,16:11,"Pix recebido","MARIA DE FATIMA NUNES DOS SANTOS MEDEIROS","+R$ 25,75",
+2026-09-07,11:18,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 10,60","Com saldo"
+2026-09-07,11:11,"Pix recebido","Thalyta Cristyne da Silva Pereira","+R$ 1,00",
+2026-09-07,10:01,"Pix recebido","DEYVID J COSTA OLIVEIRA","+R$ 3,60",
+2026-09-06,23:52,"Pix enviado","DLOCAL BRASIL INSTITUICAO DE PAGAMENTO S.A.","−R$ 25,90","Com saldo"
+2026-09-06,22:50,"Pix enviado","Oliver Barbosa de Oliveira","−R$ 29,99","Com saldo"
+2026-09-06,18:36,"Pix enviado","MITRA DIOCESANA DE CAMPINA GRANDE","−R$ 5,00","Com saldo"
+2026-09-06,13:00,"Pix recebido","Maria Sandra Silva Justino","+R$ 9,00",
+2026-09-05,19:05,"Pix recebido","ELIVANIA BATISTA DA SILVA CRUZ","+R$ 32,70",
+2026-09-05,17:15,"Pix recebido","Jhonny Palmeira de Lima","+R$ 2,00",
+2026-09-05,15:02,"Pix recebido","AILTON SILVA REGIS","+R$ 5,00",
+2026-09-05,09:29,"Dinheiro resgatado","Do cofrinho Mochilão","+R$ 375,00",
+2026-09-05,09:28,"Pix enviado","Moda Mundial Brasil Pagamentos LTDA","−R$ 374,20","Com saldo"
+2026-09-05,08:24,"Pix recebido","Welvyton Kernner de Araújo","+R$ 11,00",
+2026-09-05,08:19,"Pix enviado","João Victor Correia Alves","−R$ 56,00","Com saldo"
+2026-09-05,08:12,"Pix recebido","Davi Marinho Campos de Oliveira","+R$ 6,00",
+2026-09-05,07:32,"Pix enviado","Luan Felype Alves Travassos de Souza","−R$ 6,85","Com saldo"
+2026-09-04,20:37,"Pix recebido","MARIA EDUARDA FLORENTINO CARNEIRO","+R$ 110,00",
+2026-09-04,18:58,"Pix recebido","KACIA ROSANA LOURENCO DE ALMEIDA","+R$ 9,00",
+2026-09-04,17:59,"Pix recebido","Maria de Lourdes Ferreira Lima","+R$ 4,75",
+2026-09-04,16:29,"Pix recebido","Maria Sandra Silva Justino","+R$ 5,00",
+2026-09-04,15:50,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 5,00","Com saldo"
+2026-09-04,15:25,"Pix enviado","FULANO DE SAL PAES E MASSAS","−R$ 8,50","Com saldo"
+2026-09-04,15:00,"Pix recebido","José Ruan Vinicius da Silva","+R$ 2,00",
+2026-09-04,14:43,"Pix recebido","Klebson Rhavy Araújo da Silva Sales","+R$ 1,50",
+2026-09-04,14:25,"Pix recebido","Jucilene Carneiro da Silva","+R$ 4,00",
+2026-09-04,14:12,"Pix recebido","VALESKA BARBOSA XAVIER","+R$ 4,50",
+2026-09-04,13:49,"Pix enviado","UBER DO BRASIL TECNOLOGIA LTDA.","−R$ 3,65","Com saldo"
+2026-09-04,13:20,"Pix recebido","IARA ELOISE BARRETO DE LIMA","+R$ 2,00",
+2026-09-04,13:18,"Pix recebido","ARIEL OLIVEIRA DA SILVA","+R$ 3,00",
+2026-09-04,13:03,"Pix recebido","Lincoln Chagas de Andrade Santos","+R$ 1,00",
+2026-09-04,12:58,"Pix recebido","Maria Luiza Brito Sousa","+R$ 7,90",
+2026-09-04,12:37,"Pix recebido","Lincoln Chagas de Andrade Santos","+R$ 3,00",
+2026-09-04,12:32,"Pix recebido","Lohany de Souza Nunes Silva","+R$ 1,50",
+2026-09-04,12:28,"Pix recebido","Josefa niedja Karla Araujo Costa","+R$ 2,00",
+2026-09-04,12:27,"Pix recebido","Felipe Ferreira da Gama","+R$ 3,90",
+2026-09-04,12:25,"Pix recebido","Gabriella Ribeiro do Nascimento","+R$ 2,00",
+2026-09-04,12:23,"Pix recebido","Yasmim Camilly Rodrigues Vieira","+R$ 5,60",
+2026-09-04,12:20,"Pix recebido","ELLEN RENNALLY CAMILO DA SILVA","+R$ 5,50",
+2026-09-04,12:18,"Pix recebido","GIRLEIDE MARGARETH PEREIRA DOS SANTOS","+R$ 5,00",
+2026-09-04,12:14,"Pix recebido","DAVID KAIQUE FERREIRA DA SILVA","+R$ 8,30",
+2026-09-04,12:14,"Pix recebido","YAGO PEREIRA DE SOUZA","+R$ 1,00",
+2026-09-04,12:13,"Pix recebido","Yasmin Vieira Dias","+R$ 2,00",
+2026-09-04,12:13,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 2,00",
+2026-09-04,12:10,"Pix recebido","Mayana Santos Guimarães","+R$ 1,75",
+2026-09-04,12:05,"Pix recebido","Laura Sophia de Lima Silva","+R$ 4,50",
+2026-09-04,12:04,"Pix recebido","Pedro Arthur Nunes Souza","+R$ 1,50",
+2026-09-04,10:19,"Pix recebido","Thayna Kemille dos Santos","+R$ 1,70",
+2026-09-04,09:17,"Pix recebido","Lohany de Souza Nunes Silva","+R$ 8,50",
+2026-09-04,09:16,"Pix recebido","JHENNYFER VITORIA ALMEIDA RIBEIRO","+R$ 2,00",
+2026-09-04,09:13,"Pix recebido","Joelli Hyane Ribeiro Martins","+R$ 3,00",
+2026-09-04,07:15,"Pix recebido","FERNANDA DA SILVA SANTOS","+R$ 3,00",
