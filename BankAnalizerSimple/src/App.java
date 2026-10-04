@@ -1,43 +1,60 @@
 import Service.BankStatement;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.List;
 
 
 public class App {
-    public static void main(String[] args) throws Exception {
+
+    public static void main(String[] args) {
+
+        String[] meses = {
+            "Janeiro", "Fevereiro", "Março", "Abril",
+            "Maio", "Junho", "Julho", "Agosto",
+            "Setembro", "Outubro", "Novembro", "Dezembro"
+        };
+
+        double[] totalPorMeses = new double[12];
+
         BankStatement newStatement = new BankStatement();
-        /*List<String> linhas = Files.readAllLines(Paths.get("arquivo.csv"));
-        for (String linha : linhas) {
-            String[] campos = linha.split(";"); // ou "," dependendo do separador
-            System.out.println(campos[0] + " - " + campos[1]);
-        }*/
 
+        Path path = Paths.get("src/Repositories/ExtratoBancarioExemplo.csv");
 
+        try {
 
-        while(true) {
-            System.out.println("Digite 1 para adicionar um novo extrato bancário ou 2 para sair:");
-            int opcao = new java.util.Scanner(System.in).nextInt();
+            List<String> lines = Files.readAllLines(path);
 
-            if (opcao == 1) {
-                System.out.println("Digite a data do extrato (formato: dd/MM/yyyy):");
-                String dataStr = new java.util.Scanner(System.in).nextLine();
-                java.text.SimpleDateFormat sdf = new java.text.SimpleDateFormat("dd/MM/yyyy");
-                java.util.Date data = sdf.parse(dataStr);
-
-                System.out.println("Digite o valor do pagamento:");
-                double pagamento = new java.util.Scanner(System.in).nextDouble();
-
-                System.out.println("Digite a descricao do pagamento:");
-                String descricao = new java.util.Scanner(System.in).nextLine();
-                newStatement.AddBankStatement(data, pagamento, descricao);
-            } else if (opcao == 2) {
-                newStatement.PrintStatement();
-                break;
-            } else {
-                System.out.println("Opção inválida. Tente novamente.");
+            if (lines.isEmpty()) {
+                System.out.println("O arquivo está vazio.");
+                return;
             }
+
+            double total = 0;
+            for (String line : lines) {
+
+                String[] coluna = line.split(",");
+
+                double pagamento = Double.parseDouble(coluna[1]);
+
+                String[] data = coluna[0].split("-");
+                int mes = Integer.parseInt(data[1]) - 1;
+
+                totalPorMeses[mes] += pagamento;
+
+                total += pagamento;
+            }
+
+            System.out.println("Total: " + total);
+
+            System.out.println("Detalhamento por mês:");
+
+            for (int i = 0; i < 12; i++) {
+                System.out.println(meses[i] + ": " + totalPorMeses[i]);
+            }
+
+        } catch (Exception e) {
+            System.out.println("Erro ao ler o arquivo: " + e.getMessage());
         }
     }
-
 }
