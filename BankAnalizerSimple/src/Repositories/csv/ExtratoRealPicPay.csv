@@ -1,5 +1,4 @@
 ﻿data,hora,tipo,"origem / destino",valor,"forma de pagamento"
-2026-10-03,17:49,"Pix recebido","GABRIEL DE OLIVEIRA ROCHA","+R$ 2,50",
 2026-10-03,17:23,"Pix recebido","Moisés da Silva Costa","+R$ 18,00",
 2026-10-03,15:52,"Pix recebido","Eneli Terezinha da Silva Gomes","+R$ 19,00",
 2026-10-03,15:21,"Pix enviado","IFOOD.COM AGENCIA DE RESTAURANTES ONLINE S.A.","−R$ 1,89","Com saldo"
@@ -263,7 +262,8 @@
 2026-09-18,09:30,"Pix recebido","MARIA DE FATIMA NUNES DOS SANTOS MEDEIROS","+R$ 39,00",
 2026-09-18,09:21,"Pix recebido","Vinicius Samuel Nascimento Sales","+R$ 6,00",
 2026-09-18,09:21,"Pix recebido","Josefa niedja Karla Araujo Costa","+R$ 3,00",
-2026-09-18,09:20,"Pix recebido","Ana Lívia Sousa Marques","+R$ 3,00",
+2026-09-18,09:20,"Pix recebido","Ana Lívia Sousa Marques","+R$ 3,00",data,hora,tipo,"origem / destino",valor,"forma de pagamento"
+2026-10-03,17:49,"Pix recebido","GABRIEL DE OLIVEIRA ROCHA","+R$ 2,50",
 2026-09-18,09:19,"Pix recebido","Brenda Virginio Maciel","+R$ 3,00",
 2026-09-18,09:18,"Pix recebido","Giullia Cabral Lopes Cunha","+R$ 3,00",
 2026-09-18,09:17,"Pix recebido","Rafaella Araújo de Mello","+R$ 3,00",
