@@ -1,9 +1,10 @@
-package Service;
+package Interfaces;
 import Enteties.BankStatement;
+import Service.ReadBankStatementCSVParser;
 
 
 public interface BankStatementAnalyzer {
 
-    void PrintStatement(BankStatement bankStatement);
+    double PrintStatement(BankStatement bankStatement);
     void analyzeStatement(BankStatement bankStatement);
 }

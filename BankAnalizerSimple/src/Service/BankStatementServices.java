@@ -1,4 +1,5 @@
 package Service;
+import Interfaces.BankStatementAnalyzer;
 import java.text.SimpleDateFormat;
 
 import Enteties.BankStatement;
@@ -6,7 +7,7 @@ import Enteties.Transation;
 
 public class BankStatementServices implements BankStatementAnalyzer{
 
-    public void PrintStatement(BankStatement bankStatement) {
+    public double PrintStatement(BankStatement bankStatement) {
          SimpleDateFormat formatter =
         new SimpleDateFormat("dd/MM/yyyy");
         for(Transation transation : bankStatement.getTransations()){
@@ -21,6 +22,7 @@ public class BankStatementServices implements BankStatementAnalyzer{
         System.out.println("--------------------------------------------");
         System.out.printf("Total: %.2f%n", bankStatement.getTotality());
         System.out.println("--------------------------------------------");
+        return bankStatement.getTotality();
     }
 
     public void analyzeStatement(BankStatement bankStatement) {

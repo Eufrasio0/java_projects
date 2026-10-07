@@ -18,7 +18,7 @@ public class Transation {
         this.localPayment = localPayment;
     }
 
-
+//---------------------------- getters and setters ----------------------------
     public Date getData() {
         return data;
     }
